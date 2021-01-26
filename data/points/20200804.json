@@ -56400,7 +56400,7 @@
             "properties": {
                 "FIPS": 6059,
                 "Admin2": "Orange",
-                "Confirmed": 38066,
+                "Confirmed": 44231,
                 "Deaths": 653,
                 "Recovered": 0,
                 "Active": 37413,
@@ -99586,8 +99586,8 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 7511,
-                "Deaths": 166,
+                "Confirmed": 7476,
+                "Deaths": 165,
                 "Recovered": 4832,
                 "Active": 2513,
                 "Combined_Key": "Haiti",

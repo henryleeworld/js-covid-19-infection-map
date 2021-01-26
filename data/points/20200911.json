@@ -5934,8 +5934,8 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 8457,
-                "Deaths": 216,
+                "Confirmed": 8429,
+                "Deaths": 215,
                 "Recovered": 6120,
                 "Active": 2121,
                 "Combined_Key": "Haiti",
@@ -22054,7 +22054,7 @@
             "properties": {
                 "FIPS": 6059,
                 "Admin2": "Orange",
-                "Confirmed": 50613,
+                "Confirmed": 52582,
                 "Deaths": 1081,
                 "Recovered": 0,
                 "Active": 49532,
