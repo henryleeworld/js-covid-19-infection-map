@@ -60318,7 +60318,7 @@
             "properties": {
                 "FIPS": 29510,
                 "Admin2": "St. Louis City",
-                "Confirmed": 1884,
+                "Confirmed": 1877,
                 "Deaths": 117,
                 "Recovered": 0,
                 "Active": 1767,
@@ -76159,7 +76159,7 @@
                 "FIPS": "",
                 "Admin2": "",
                 "Confirmed": 49148,
-                "Deaths": 4229,
+                "Deaths": 4959,
                 "Recovered": 15319,
                 "Active": 29600,
                 "Combined_Key": "Quebec, Canada",

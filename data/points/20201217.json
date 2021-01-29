@@ -2269,7 +2269,7 @@
                 "FIPS": "",
                 "Admin2": "",
                 "Confirmed": 171028,
-                "Deaths": 7635,
+                "Deaths": 7762,
                 "Recovered": 145532,
                 "Active": 17861,
                 "Combined_Key": "Quebec, Canada",
@@ -58922,7 +58922,7 @@
             "properties": {
                 "FIPS": 29510,
                 "Admin2": "St. Louis City",
-                "Confirmed": 15471,
+                "Confirmed": 16050,
                 "Deaths": 279,
                 "Recovered": 0,
                 "Active": 15192,
