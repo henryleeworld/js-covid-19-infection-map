@@ -242,7 +242,7 @@
                 "Admin2": "",
                 "Confirmed": 4995,
                 "Deaths": 54,
-                "Recovered": 3211,
+                "Recovered": 0,
                 "Active": 1730,
                 "Combined_Key": "New South Wales, Australia",
                 "Incident_Rate": 61.529933481153,
@@ -5544,8 +5544,8 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 2701215,
-                "Deaths": 66197,
+                "Confirmed": 2722728,
+                "Deaths": 66472,
                 "Recovered": 174751,
                 "Active": 2460078,
                 "Combined_Key": "France",
@@ -63992,7 +63992,7 @@
             "properties": {
                 "FIPS": 90033,
                 "Admin2": "Unassigned",
-                "Confirmed": 997,
+                "Confirmed": 2073,
                 "Deaths": 1,
                 "Recovered": 0,
                 "Active": 996,
