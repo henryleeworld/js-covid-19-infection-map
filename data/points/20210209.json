@@ -9029,7 +9029,7 @@
                 "FIPS": "",
                 "Admin2": "",
                 "Confirmed": 4776,
-                "Deaths": 86,
+                "Deaths": 87,
                 "Recovered": 4392,
                 "Active": 298,
                 "Combined_Key": "Shizuoka, Japan",
@@ -103036,6 +103036,32 @@
                 "coordinates": [
                     -6.4923,
                     54.7877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FIPS": "",
+                "Admin2": "",
+                "Confirmed": 4,
+                "Deaths": 0,
+                "Recovered": 4,
+                "Active": 0,
+                "Combined_Key": "Saint Helena, Ascension and Tristan da Cunha, United Kingdom",
+                "Incident_Rate": "",
+                "Case_Fatality_Ratio": "",
+                "Province\/State": "Saint Helena, Ascension and Tristan da Cunha",
+                "Country\/Region": "United Kingdom",
+                "Last Update (UTC)": "2021-02-10 05:22:41",
+                "Latitude": -7.9467,
+                "Longitude": -14.3559
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.3559,
+                    -7.9467
                 ]
             }
         },

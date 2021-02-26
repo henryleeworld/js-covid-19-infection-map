@@ -7468,7 +7468,7 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 617168,
+                "Confirmed": 609656,
                 "Deaths": 4513,
                 "Recovered": 535717,
                 "Active": 76938,
@@ -8197,7 +8197,7 @@
                 "FIPS": "",
                 "Admin2": "",
                 "Confirmed": 503,
-                "Deaths": 16,
+                "Deaths": 15,
                 "Recovered": 397,
                 "Active": 90,
                 "Combined_Key": "Fukui, Japan",
@@ -103036,6 +103036,32 @@
                 "coordinates": [
                     -6.4923,
                     54.7877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FIPS": "",
+                "Admin2": "",
+                "Confirmed": 4,
+                "Deaths": 0,
+                "Recovered": 4,
+                "Active": 0,
+                "Combined_Key": "Saint Helena, Ascension and Tristan da Cunha, United Kingdom",
+                "Incident_Rate": "",
+                "Case_Fatality_Ratio": "",
+                "Province\/State": "Saint Helena, Ascension and Tristan da Cunha",
+                "Country\/Region": "United Kingdom",
+                "Last Update (UTC)": "2021-01-27 05:23:41",
+                "Latitude": -7.9467,
+                "Longitude": -14.3559
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.3559,
+                    -7.9467
                 ]
             }
         },

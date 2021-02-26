@@ -5570,8 +5570,8 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 3517166,
-                "Deaths": 82968,
+                "Confirmed": 3562707,
+                "Deaths": 83693,
                 "Recovered": 221252,
                 "Active": 3212003,
                 "Combined_Key": "France",
@@ -103062,6 +103062,32 @@
                 "coordinates": [
                     -6.4923,
                     54.7877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FIPS": "",
+                "Admin2": "",
+                "Confirmed": 4,
+                "Deaths": 0,
+                "Recovered": 4,
+                "Active": 0,
+                "Combined_Key": "Saint Helena, Ascension and Tristan da Cunha, United Kingdom",
+                "Incident_Rate": "",
+                "Case_Fatality_Ratio": "",
+                "Province\/State": "Saint Helena, Ascension and Tristan da Cunha",
+                "Country\/Region": "United Kingdom",
+                "Last Update (UTC)": "2021-02-21 05:24:33",
+                "Latitude": -7.9467,
+                "Longitude": -14.3559
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.3559,
+                    -7.9467
                 ]
             }
         },
