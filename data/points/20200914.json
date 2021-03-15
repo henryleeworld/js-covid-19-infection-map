@@ -58454,8 +58454,8 @@
             "properties": {
                 "FIPS": 29510,
                 "Admin2": "St. Louis City",
-                "Confirmed": 6846,
-                "Deaths": 192,
+                "Confirmed": 6854,
+                "Deaths": 220,
                 "Recovered": 0,
                 "Active": 6432,
                 "Combined_Key": "St. Louis City, Missouri, US",
@@ -58636,7 +58636,7 @@
             "properties": {
                 "FIPS": 90029,
                 "Admin2": "Unassigned",
-                "Confirmed": 2104,
+                "Confirmed": 2093,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 0,
@@ -72131,7 +72131,7 @@
                 "FIPS": 39113,
                 "Admin2": "Montgomery",
                 "Confirmed": 7148,
-                "Deaths": 143,
+                "Deaths": 145,
                 "Recovered": 0,
                 "Active": 7004,
                 "Combined_Key": "Montgomery, Ohio, US",
