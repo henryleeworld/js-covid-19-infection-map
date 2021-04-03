@@ -121,7 +121,7 @@
             "deadCount": 6
         },
         "\u6e56\u5317\u7701": {
-            "confirmedCount": 68151,
+            "confirmedCount": 68152,
             "suspectedCount": 0,
             "curedCount": 63639,
             "deadCount": 4512
@@ -187,7 +187,7 @@
             "deadCount": 0
         },
         "\u9999\u6e2f\u7279\u522b\u884c\u653f\u533a": {
-            "confirmedCount": 11419,
+            "confirmedCount": 11428,
             "suspectedCount": 176,
             "curedCount": 10963,
             "deadCount": 204
@@ -1251,7 +1251,7 @@
             "deadCount": 15
         },
         "CN421200": {
-            "confirmedCount": 50356,
+            "confirmedCount": 50357,
             "suspectedCount": 0,
             "curedCount": 46487,
             "deadCount": 3869
@@ -2151,7 +2151,7 @@
             "deadCount": 0
         },
         "CN810100": {
-            "confirmedCount": 11419,
+            "confirmedCount": 11428,
             "suspectedCount": 176,
             "curedCount": 10963,
             "deadCount": 204
