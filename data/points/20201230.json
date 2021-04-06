@@ -19246,8 +19246,8 @@
             "properties": {
                 "FIPS": 2261,
                 "Admin2": "Valdez-Cordova",
-                "Confirmed": 343,
-                "Deaths": 3,
+                "Confirmed": 0,
+                "Deaths": 0,
                 "Recovered": 0,
                 "Active": 340,
                 "Combined_Key": "Valdez-Cordova, Alaska, US",
@@ -71169,7 +71169,7 @@
                 "FIPS": 39001,
                 "Admin2": "Adams",
                 "Confirmed": 1336,
-                "Deaths": 27,
+                "Deaths": 28,
                 "Recovered": 0,
                 "Active": 1322,
                 "Combined_Key": "Adams, Ohio, US",
@@ -71611,7 +71611,7 @@
                 "FIPS": 39035,
                 "Admin2": "Cuyahoga",
                 "Confirmed": 69251,
-                "Deaths": 1448,
+                "Deaths": 1450,
                 "Recovered": 0,
                 "Active": 68356,
                 "Combined_Key": "Cuyahoga, Ohio, US",
@@ -71793,7 +71793,7 @@
                 "FIPS": 39049,
                 "Admin2": "Franklin",
                 "Confirmed": 83105,
-                "Deaths": 1026,
+                "Deaths": 1028,
                 "Recovered": 0,
                 "Active": 82407,
                 "Combined_Key": "Franklin, Ohio, US",
@@ -73145,7 +73145,7 @@
                 "FIPS": 39153,
                 "Admin2": "Summit",
                 "Confirmed": 27614,
-                "Deaths": 638,
+                "Deaths": 639,
                 "Recovered": 0,
                 "Active": 27037,
                 "Combined_Key": "Summit, Ohio, US",
@@ -73405,7 +73405,7 @@
                 "FIPS": 39171,
                 "Admin2": "Williams",
                 "Confirmed": 2255,
-                "Deaths": 48,
+                "Deaths": 49,
                 "Recovered": 0,
                 "Active": 2207,
                 "Combined_Key": "Williams, Ohio, US",
@@ -103322,6 +103322,58 @@
                 "coordinates": [
                     29.154857,
                     -19.015438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FIPS": 2066,
+                "Admin2": "Copper River",
+                "Confirmed": 144,
+                "Deaths": 0,
+                "Recovered": 0,
+                "Active": 0,
+                "Combined_Key": "Copper River, Alaska, US",
+                "Incident_Rate": "",
+                "Case_Fatality_Ratio": "",
+                "Province\/State": "Alaska",
+                "Country\/Region": "US",
+                "Last Update (UTC)": "2021-04-02 15:13:53",
+                "Latitude": 60.3886,
+                "Longitude": -162.8905196
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -162.8905196,
+                    60.3886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FIPS": 2063,
+                "Admin2": "Chugach",
+                "Confirmed": 220,
+                "Deaths": 3,
+                "Recovered": 0,
+                "Active": 0,
+                "Combined_Key": "Chugach, Alaska, US",
+                "Incident_Rate": "",
+                "Case_Fatality_Ratio": "",
+                "Province\/State": "Alaska",
+                "Country\/Region": "US",
+                "Last Update (UTC)": "2021-04-02 15:13:53",
+                "Latitude": 61.16666,
+                "Longitude": -149.9
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -149.9,
+                    61.16666
                 ]
             }
         }

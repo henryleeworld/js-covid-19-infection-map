@@ -19272,8 +19272,8 @@
             "properties": {
                 "FIPS": 2261,
                 "Admin2": "Valdez-Cordova",
-                "Confirmed": 381,
-                "Deaths": 3,
+                "Confirmed": 0,
+                "Deaths": 0,
                 "Recovered": 0,
                 "Active": 378,
                 "Combined_Key": "Valdez-Cordova, Alaska, US",
@@ -71195,7 +71195,7 @@
                 "FIPS": 39001,
                 "Admin2": "Adams",
                 "Confirmed": 1586,
-                "Deaths": 31,
+                "Deaths": 32,
                 "Recovered": 0,
                 "Active": 1571,
                 "Combined_Key": "Adams, Ohio, US",
@@ -71637,7 +71637,7 @@
                 "FIPS": 39035,
                 "Admin2": "Cuyahoga",
                 "Confirmed": 78970,
-                "Deaths": 1659,
+                "Deaths": 1662,
                 "Recovered": 0,
                 "Active": 78009,
                 "Combined_Key": "Cuyahoga, Ohio, US",
@@ -71767,7 +71767,7 @@
                 "FIPS": 39045,
                 "Admin2": "Fairfield",
                 "Confirmed": 11564,
-                "Deaths": 144,
+                "Deaths": 143,
                 "Recovered": 0,
                 "Active": 11484,
                 "Combined_Key": "Fairfield, Ohio, US",
@@ -71819,7 +71819,7 @@
                 "FIPS": 39049,
                 "Admin2": "Franklin",
                 "Confirmed": 93903,
-                "Deaths": 1108,
+                "Deaths": 1110,
                 "Recovered": 0,
                 "Active": 93201,
                 "Combined_Key": "Franklin, Ohio, US",
@@ -71975,7 +71975,7 @@
                 "FIPS": 39061,
                 "Admin2": "Hamilton",
                 "Confirmed": 58503,
-                "Deaths": 902,
+                "Deaths": 903,
                 "Recovered": 0,
                 "Active": 58077,
                 "Combined_Key": "Hamilton, Ohio, US",
@@ -73171,7 +73171,7 @@
                 "FIPS": 39153,
                 "Admin2": "Summit",
                 "Confirmed": 31877,
-                "Deaths": 735,
+                "Deaths": 736,
                 "Recovered": 0,
                 "Active": 31199,
                 "Combined_Key": "Summit, Ohio, US",
@@ -73431,7 +73431,7 @@
                 "FIPS": 39171,
                 "Admin2": "Williams",
                 "Confirmed": 2616,
-                "Deaths": 59,
+                "Deaths": 60,
                 "Recovered": 0,
                 "Active": 2559,
                 "Combined_Key": "Williams, Ohio, US",
@@ -103348,6 +103348,58 @@
                 "coordinates": [
                     29.154857,
                     -19.015438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FIPS": 2066,
+                "Admin2": "Copper River",
+                "Confirmed": 171,
+                "Deaths": 0,
+                "Recovered": 0,
+                "Active": 0,
+                "Combined_Key": "Copper River, Alaska, US",
+                "Incident_Rate": "",
+                "Case_Fatality_Ratio": "",
+                "Province\/State": "Alaska",
+                "Country\/Region": "US",
+                "Last Update (UTC)": "2021-04-02 15:13:53",
+                "Latitude": 60.3886,
+                "Longitude": -162.8905196
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -162.8905196,
+                    60.3886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FIPS": 2063,
+                "Admin2": "Chugach",
+                "Confirmed": 232,
+                "Deaths": 3,
+                "Recovered": 0,
+                "Active": 0,
+                "Combined_Key": "Chugach, Alaska, US",
+                "Incident_Rate": "",
+                "Case_Fatality_Ratio": "",
+                "Province\/State": "Alaska",
+                "Country\/Region": "US",
+                "Last Update (UTC)": "2021-04-02 15:13:53",
+                "Latitude": 61.16666,
+                "Longitude": -149.9
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -149.9,
+                    61.16666
                 ]
             }
         }
