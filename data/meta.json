@@ -1,8 +1,8 @@
 {
     "begin": 20200126,
-    "end": 20210603,
-    "points": "20210601",
-    "Confirmed": 171187600,
-    "Recovered": 108743650,
-    "Deaths": 3565115
+    "end": 20210605,
+    "points": "20210604",
+    "Confirmed": 172589646,
+    "Recovered": 110226256,
+    "Deaths": 3712569
 }
