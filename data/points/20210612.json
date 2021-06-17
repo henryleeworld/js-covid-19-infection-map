@@ -9340,8 +9340,8 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 739847,
-                "Deaths": 9530,
+                "Confirmed": 742831,
+                "Deaths": 9582,
                 "Recovered": 725557,
                 "Active": 4760,
                 "Combined_Key": "Jordan",
@@ -15294,10 +15294,10 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 62224,
+                "Confirmed": 62263,
                 "Deaths": 34,
                 "Recovered": 61799,
-                "Active": 391,
+                "Active": 430,
                 "Combined_Key": "Singapore",
                 "Incident_Rate": 1063.5957584025416,
                 "Case_Fatality_Ratio": 0.054641295962972486,
@@ -23432,7 +23432,7 @@
             "properties": {
                 "FIPS": 6115,
                 "Admin2": "Yuba",
-                "Confirmed": 6648,
+                "Confirmed": 6448,
                 "Deaths": 50,
                 "Recovered": 0,
                 "Active": "",
