@@ -9600,8 +9600,8 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 542649,
-                "Deaths": 7801,
+                "Confirmed": 543267,
+                "Deaths": 7815,
                 "Recovered": 527645,
                 "Active": 7203,
                 "Combined_Key": "Lebanon",
@@ -11082,8 +11082,8 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 70112,
-                "Deaths": 1107,
+                "Confirmed": 71761,
+                "Deaths": 1134,
                 "Recovered": 57716,
                 "Active": 11289,
                 "Combined_Key": "Namibia",
@@ -11966,7 +11966,7 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 2,
+                "Confirmed": 0,
                 "Deaths": 0,
                 "Recovered": 0,
                 "Active": 2,
