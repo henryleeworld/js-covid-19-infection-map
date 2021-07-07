@@ -5518,8 +5518,8 @@
             "properties": {
                 "FIPS": "",
                 "Admin2": "",
-                "Confirmed": 2276,
-                "Deaths": 12,
+                "Confirmed": 2314,
+                "Deaths": 37,
                 "Recovered": 1399,
                 "Active": 878,
                 "Combined_Key": "St Martin, France",
@@ -63316,7 +63316,7 @@
             "properties": {
                 "FIPS": 90031,
                 "Admin2": "Unassigned",
-                "Confirmed": 3253,
+                "Confirmed": 3447,
                 "Deaths": 31,
                 "Recovered": 0,
                 "Active": "",
