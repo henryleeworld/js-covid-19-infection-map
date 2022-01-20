@@ -1,0 +1,30 @@
+body {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+html,
+body,
+#map {
+    height: 100%;
+    font: 10pt "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+#footer {
+    position: fixed;
+    top: auto;
+    bottom: 0;
+    height: 30px;
+    width: 100%;
+    overflow: hidden;
+    background-color: #2CA07A;
+    color: white;
+}
+
+span.count {
+    color: brown;
+    font-weight: 900;
+    font: 12pt "Helvetica Neue", Arial, Helvetica, sans-serif;
+    margin: 5px;
+}
